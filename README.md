@@ -1,2 +1,2 @@
 # Capstone_Project
- DF Capstone project on on sentiment analysis for Hearing Centre
+ **Digital Futures Academy Capstone project on sentiment analysis for Hearing Centre**
